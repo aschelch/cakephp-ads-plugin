@@ -4,8 +4,4 @@ tmp/*
 app/tmp/*
 app/[Cc]onfig/core.php
 app/[Cc]onfig/database.php
-<<<<<<< HEAD
 !empty
-=======
-!empty
->>>>>>> 8d6a5311e1743b1f5bf79d3df1359c7370186b1f
